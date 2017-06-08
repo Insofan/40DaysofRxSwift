@@ -1,0 +1,24 @@
+PODS:
+  - RxCocoa (3.4.0):
+    - RxSwift (~> 3.4)
+  - RxGesture (1.0.1):
+    - RxCocoa (~> 3.4)
+    - RxSwift (~> 3.4)
+  - RxSwift (3.4.0)
+  - SnapKit (3.2.0)
+
+DEPENDENCIES:
+  - RxCocoa
+  - RxGesture
+  - RxSwift
+  - SnapKit
+
+SPEC CHECKSUMS:
+  RxCocoa: d14ef6b6029e1ddc6e966508c09289090de68ff9
+  RxGesture: 1f770b247c69e8133fb8f4ef263571efd0ae91a1
+  RxSwift: 3789a1af753002a14edecdb698a2424624296a9c
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+
+PODFILE CHECKSUM: 9c71ea9b096ed8ee638dd446c1e8c861b985f70d
+
+COCOAPODS: 1.1.0.rc.3

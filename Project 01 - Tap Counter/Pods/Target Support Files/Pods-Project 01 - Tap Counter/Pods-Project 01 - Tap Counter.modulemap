@@ -1,0 +1,6 @@
+framework module Pods_Project_01___Tap_Counter {
+  umbrella header "Pods-Project 01 - Tap Counter-umbrella.h"
+
+  export *
+  module * { export * }
+}

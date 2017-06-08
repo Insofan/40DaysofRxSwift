@@ -1,0 +1,22 @@
+PODS:
+  - HXTool (0.1.2)
+  - RxCocoa (3.4.0):
+    - RxSwift (~> 3.4)
+  - RxSwift (3.4.0)
+  - SnapKit (3.2.0)
+
+DEPENDENCIES:
+  - HXTool
+  - RxCocoa
+  - RxSwift
+  - SnapKit
+
+SPEC CHECKSUMS:
+  HXTool: 2a61e9bf07c6794c17b03c289944d1cbe5f8c332
+  RxCocoa: d14ef6b6029e1ddc6e966508c09289090de68ff9
+  RxSwift: 3789a1af753002a14edecdb698a2424624296a9c
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+
+PODFILE CHECKSUM: bb1b49b6c23c84a1fd3ffaa1d8e8c4ec9ff7be17
+
+COCOAPODS: 1.1.0.rc.3
