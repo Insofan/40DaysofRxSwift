@@ -55,7 +55,7 @@ class ViewController: UIViewController {
         }
         
         self.tapButton.snp.makeConstraints { (make) in
-            make.center.equalToSuperview()
+            make.centerX.equalToSuperview()
             make.width.height.equalTo(CGSize(width: 100, height: 50))
         }
 
